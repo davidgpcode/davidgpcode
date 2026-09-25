@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, I'm a Systems & Network Administrator Student
 
-<!--
-**davidgpcode/davidgpcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying **ASIR** (Advanced Technician in Network Computer Systems Administration). My core interests lie in infrastructure design, cloud architecture, automation, and DevOps practices. 
 
-Here are some ideas to get you started:
+I use this GitHub space to document my learning journey, host lab configurations, and share automation scripts that streamline system administration tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+
+### ☁️ Cloud & Containerization
+![AWS](https://shields.io)
+![Azure](https://shields.io)
+![Docker](https://shields.io)
+
+### 🌐 Networking & Infrastructure
+![GNS3](https://shields.io)
+
+### 💻 Scripting & Automation
+![Bash](https://shields.io)
+![Python](https://shields.io)
+
+### 📊 Data & Configuration Management
+![SQL](https://shields.io)
+![XML](https://shields.io)
+
+### 🌐 Frontend & Layout
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
+---
