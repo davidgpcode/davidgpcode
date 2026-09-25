@@ -10,7 +10,6 @@ I use this GitHub space to document my learning journey, host lab configurations
 
 ### ☁️ Cloud & Containerization
 ![AWS](https://shields.io)
-![Azure](https://shields.io)
 ![Docker](https://shields.io)
 
 ### 🌐 Networking & Infrastructure
