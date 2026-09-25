@@ -9,20 +9,18 @@ I use this GitHub space to document my learning journey, host lab configurations
 ## 🛠️ Tech Stack & Tools
 
 ### ☁️ Cloud & Containerization
-![AWS](https://shields.io)
-![Docker](https://shields.io)
+![AWS](https://shields.io) ![Docker](https://shields.io)
 
 ### 🌐 Networking & Infrastructure
 ![GNS3](https://shields.io)
 
 ### 💻 Scripting & Automation
-![Bash](https://shields.io)
-![Python](https://shields.io)
+![Bash](https://shields.io) ![Python](https://shields.io)
 
 ### 📊 Data & Configuration Management
-![SQL](https://shields.io)
-![XML](https://shields.io)
+![SQL](https://shields.io) ![XML](https://shields.io)
 
 ### 🌐 Frontend & Layout
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+![HTML5](https://shields.io) ![CSS3](https://shields.io)
+
+---
