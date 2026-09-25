@@ -1,30 +1,26 @@
-# 👋 Hi there, I'm a Systems & Network Administrator Student
+## 👋 Hi there, I'm a Systems & Network Administrator Student
 
-I am currently studying **ASIR** (Advanced Technician in Network Computer Systems Administration). My core interests lie in infrastructure design, cloud architecture, automation, and DevOps practices. 
+I am currently studying ASIR (Advanced Technician in Network Computer Systems Administration). My core interests lie in infrastructure design, cloud architecture, automation, and DevOps practices.
 
 I use this GitHub space to document my learning journey, host lab configurations, and share automation scripts that streamline system administration tasks.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-### ☁️ Cloud & Containerization
-<img src="https://shields.io" alt="AWS">
-<img src="https://shields.io" alt="Docker">
+#### ☁️ Cloud & Containerization
+![AWS](https://shields.io) ![Docker](https://shields.io)
 
-### 🌐 Networking & Infrastructure
-<img src="https://shields.io" alt="GNS3">
+#### 🌐 Networking & Infrastructure
+![GNS3](https://shields.io)
 
-### 💻 Scripting & Automation
-<img src="https://shields.io" alt="Bash">
-<img src="https://shields.io" alt="Python">
+#### 💻 Scripting & Automation
+![Bash](https://shields.io) ![Python](https://shields.io)
 
-### 📊 Data & Configuration Management
-<img src="https://shields.io" alt="SQL">
-<img src="https://shields.io" alt="XML">
+#### 📊 Data & Configuration Management
+![SQL](https://shields.io) ![XML](https://shields.io)
 
-### 🌐 Frontend & Layout
-<img src="https://shields.io" alt="HTML5">
-<img src="https://shields.io" alt="CSS3">
+#### 🌐 Frontend & Layout
+![HTML5](https://shields.io) ![CSS3](https://shields.io)
 
 ---
